@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'FriscoEgyreKenyérebb',
   tagline: 'Avagy mi mindenre jó a kovász',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://noriadi.tk',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
