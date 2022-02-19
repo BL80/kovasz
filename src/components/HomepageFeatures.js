@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Imádom a friss kenyeret, és te?',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/landing_kenyer.svg').default,
     description: (
       <>
         Elalélsz a friss kenyér illatától?
@@ -18,7 +18,7 @@ const FeatureList = [
   },
   {
     title: 'Hozzávalók, lássuk csak!',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/landing_hozzavalok.svg').default,
     description: (
       <>
         Mi a rák az a ..., mégis honnan vegyek ...?
@@ -30,7 +30,7 @@ const FeatureList = [
   },
   {
     title: 'Netán mérnöki vénával vagy megáldva?',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/landing_metrics.svg').default,
     description: (
       <>
         Algoritmus alapján sütöd a palacsintát? Falra tudnál mászni a következő mértékegységektől: <code>csipetnyi</code>, <code>mokkáskanál</code>, <code>egy kis</code>, <code>némi</code>, <code>púpos</code>, <code>ek</code>?
@@ -41,7 +41,7 @@ const FeatureList = [
   },
   {
     title: 'Új hobbit keresel? Épp mid-life krízisben vagy?',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/landing_hobby.svg').default,
     description: (
       <>
         Kipróbálnál valami új dolgot, de nem akarsz rá százezreket költeni és utálsz futni?
