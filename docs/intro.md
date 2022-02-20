@@ -6,7 +6,7 @@ sidebar_position: 1
 \- totál amatőröknek
 
 :::info
-Az alábbi recept 2db kb 700-800g os kenyeret eredményez, vagy 1db ~1,5 kg-osat, ami azt jelenti, hogy két M-es vagy egy XXL-es szakajtóra lesz szükség.
+Az alábbi recept 2db kb. 700-800g-os kenyeret eredményez, vagy 1db ~1,5 kg-osat, ami azt jelenti, hogy két M-es vagy egy XXL-es szakajtóra lesz szükség.
 :::
 
 |Hozzávalók|Mennyiség|
@@ -81,20 +81,20 @@ Az alábbi recept 2db kb 700-800g os kenyeret eredményez, vagy 1db ~1,5 kg-osat
 :::tip Tippek a hajtogatáshoz
 - [Szakajtóban](https://www.instagram.com/p/B9tIY9IgbL_/) a konyharuha legyen bőségesen kilisztezve, hogy ne ragadjon bele.
 - Fapépes szakajtóba nem kell rongy és nem kell lisztezni, csak első használatkor!
-- Ez a kenyér formázás, hajtogatás egy külön művészet. Tele van az insta szebbnél szebb hajtogatásos módszerekkel, trükkökkel. Nem muszáj vele pöcsölni, ha nincs időd/kedved, akkor egyből formázhatod, mehet a szakajtóba és csá. Viszont ilyenkor vállalnod kell a következményeket, hogy ha nem hajtogatod meg rendesen fél óránként, akkor lehet, hogy nem lesz benne “angyalheverő”.
+- Ez a kenyér formázás, hajtogatás egy külön művészet. Tele van az insta szebbnél szebb hajtogatásos módszerekkel, trükkökkel. Nem muszáj vele vacakolni, ha nincs időd/kedved, akkor egyből formázhatod, mehet a szakajtóba és csá. Viszont ilyenkor vállalnod kell a következményeket, hogy ha nem hajtogatod meg rendesen fél óránként, akkor lehet, hogy nem lesz benne “angyalheverő”.
 :::
 
 “angyalheverő” a ciabatta-ban
 
 ## 5. fázis - Sütés
 >🌡️230°C 🕐1 óra  
->előmelegített sötőben, gőzben  
+>előmelegített sütőben, gőzben  
 >45 perc alsó, 15 perc felső sütés
 
 - Előmelegített sütőbe, minél melegebb annál jobb!
 - Tegyél a sütőbe legalulra 1 kerámia tálba vizet, hogy gőz képződjön (ha [edényben](https://www.instagram.com/p/B3uvU4TAuD8/) sütöd, akkor természetesen [ezt a lépést kihagyhatod](https://www.instagram.com/p/ByJyjxeAv28/))
 - Ha felmelegedett a sütő jöhet a tészta, [burítsd\* ki a szakajtóból](https://www.instagram.com/p/B9vyQihBTsO/) a tepsire egy sütőpapírra. (\*burít = borít kisalföldiül)
-- Csinálj rajta [bemetszést](https://www.instagram.com/p/CXFzpzfjpqG/), de ne pöcsölj! Amilyen gyorsan lehet mehet is a sütőbe középre.
+- Csinálj rajta [bemetszést](https://www.instagram.com/p/CXFzpzfjpqG/), de ne totojázz! Amilyen gyorsan lehet mehet is a sütőbe középre.
 - 230°C-on kb 45 perc alsó sütés
 - Vedd ki alulról a vizestálat, vigyázz forró gőz fog felcsapni a sütőből! Ha edényben sütöd, akkor vedd le az edény fedelét.
 - 15 perc felső [sütés és kész](https://photos.app.goo.gl/y3BbVeHeLSZaC8at7)
