@@ -42,14 +42,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // announcementBar: {
-      //   id: 'support_us',
-      //   content:
-      //     'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
-      //   backgroundColor: '#fafbfc',
-      //   textColor: '#091E42',
-      //   isCloseable: false,
-      // },
+      announcementBar: {
+        id: 'support_us',
+        content:
+          'Az oldal fejlesztés alatt, talán nemsokára kész lesz... <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/friscoegyrekemenyebb/">addig nézegess Friscos képeket instán</a>',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: false,
+      },
       navbar: {
         title: 'FriscoEgyreKenyérebb',
         logo: {
@@ -91,7 +91,7 @@ const config = {
                 href: 'https://www.instagram.com/friscoegyrekenyerebb/',
               },
               {
-                label: '✉️Contact',
+                label: '✉️ Kapcsolat',
                 href: 'mailto:friscoegyrekenyerebb@gmail.com',
               },
             ],
