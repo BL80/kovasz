@@ -45,9 +45,9 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'Az oldal fejlesztés alatt, talán nemsokára kész lesz... <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/friscoegyrekemenyebb/">addig nézegess Friscos képeket instán</a>',
-        backgroundColor: '#fafbfc',
-        textColor: '#091E42',
+          '🚧👷‍♂️Az oldal fejlesztés alatt, hamarosan elkészül...⏳ <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/friscoegyrekemenyebb/">Addig nézegess Friscos🚲 képeket instán!</a>',
+        backgroundColor: '#887964',
+        textColor: '#ffffff',
         isCloseable: false,
       },
       navbar: {

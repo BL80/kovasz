@@ -4,6 +4,9 @@
  */
 
 .heroBanner {
+  /* background-image: url(https://picsum.photos/300/300);
+  background-repeat: no-repeat;
+  background-size: cover; */
   padding: 4rem 0;
   text-align: center;
   position: relative;
