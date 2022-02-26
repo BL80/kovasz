@@ -1,14 +1,13 @@
 ---
 slug: welcome
-title: Üdvözlet
+title: Üdv az oldalon!
 authors: frisco
-tags: [welcome, hello, üdv]
+tags: [welcome, hello, üdvözlet]
 ---
 
-Üdv az oldalon!
 
 ## Bemutatkozó
-Sziasztok! Ádi vagyok. Szeretek biciklizni és sütögetni.
+Sziasztok! Ádi vagyok. Szeretek 🚲biciklizni és 🍞sütögetni.
 
 A kovásszal való sütés a legújabb hobbim. Nem, nem a pandémia alatt kezdtem ezzel foglalkozni, hanem már pár évvel előtte. Világ életemben rajongtam a frissen sült forró kenyérért, de csak ritkán jutottam hozzá, ezért egy nap kipróbáltam, hogy vajon tudok-e sütni. Nem lett túl jó, ezért megpróbáltam még1x, majd újra és újra, de egyik sem volt az igazi. Már féligmeddig elengedtem a dolgot, amikor kaptam kovászt egy kedves barátomtól... Majd a páromtól egy könyvet a kovászról... És hobbivá vált.
 
@@ -17,6 +16,7 @@ Szoftverfejlesztő vagyok. Anno az egyetemi tanulmányaim során algoritumos ter
 - `hallgató` Recept alapján?!
 - `tanár` NEM!!! Algoritmus alapján!
 
+<!--truncate-->
 
 ## Az oldal célja
 Az oldal leginkább saját használatra készül, amolyan sütési napló, jegyzetek, receptek próbálgatása, tapasztalatok rendszerezése egy mindenhonnan elérhető gyűjtőhelyre, jól kereshető, átlátható formában. Barátaim, ismerőseim, kollégáim sokszor kértek már tőlem receptet, tanácsot, kovászos témában. Ezeket próbálom most egy könnyeben elérhető platfromon rendszerezni.
