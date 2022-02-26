@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/nynfus/Docusaurus',
+          editUrl: 'https://github.com/nynfus/Docusaurus/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/nynfus/Docusaurus/blob/main/',
+            'https://github.com/nynfus/Docusaurus/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -45,10 +45,10 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '🚧👷‍♂️Az oldal fejlesztés alatt, hamarosan elkészül...⏳ <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/friscoegyrekemenyebb/">Addig nézegess Friscos🚲 képeket instán!</a>',
+          '👍Ha tetszik az oldal, kövesd <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/friscoegyrekenyerebb/">instán</a>',
         backgroundColor: '#887964',
         textColor: '#ffffff',
-        isCloseable: false,
+        isCloseable: true,
       },
       navbar: {
         title: 'FriscoEgyreKenyérebb',
@@ -75,7 +75,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Receptek',
             items: [
               {
                 label: 'Kovász',
@@ -84,20 +84,20 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Kapcsolat',
             items: [
               {
                 label: 'Instagram',
                 href: 'https://www.instagram.com/friscoegyrekenyerebb/',
               },
               {
-                label: '✉️ Kapcsolat',
+                label: '✉️ küldés',
                 href: 'mailto:friscoegyrekenyerebb@gmail.com',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Egyéb',
             items: [
               {
                 label: 'Blog',

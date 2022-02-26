@@ -68,9 +68,9 @@ const FeatureList = [
     Svg: require('../../static/img/landing_tools.svg').default,
     description: (
       <>
-        ✅ Fedeles dagasztó/kelesztőtál | ✅ Konyharuhák | ✅ Penge, vagy éles kés | 
-        🟩 Szakajtó?! (Ha nincs, jó a ronggyal bélelt tésztaszűrő tál vagy bármilyen edény. A lényeg, hogy nedvszívó legyen!) | 
-        ✅ Végül de nem utolsó sorban egy jó- kenyérvágó kés, illetve étvágy! 😉<br/>
+        ✅Fedeles dagasztó/kelesztőtál | ✅Konyharuhák | ✅Penge, vagy éles kés | 
+        ❌Szakajtó?! (Ha nincs, jó a ronggyal bélelt tésztaszűrő tál vagy bármilyen edény. A lényeg, hogy nedvszívó legyen!) | 
+        ✅Végül de nem utolsó sorban egy jó- kenyérvágó kés, illetve étvágy! 😉<br/>
         Megvan minden? Adjunk enni a kovásznak és hajrá!
       </>
     ),

@@ -5,17 +5,25 @@
  */
 
 /* You can override the default Infima variables here. */
-:root {
-  --ifm-color-primary: #887964; /*#9b4429;*/
-  --ifm-color-primary-dark: #71624d; /*#7a2010;*/
-  --ifm-color-primary-darker: #665744; /*#5f0b01;*/
-  --ifm-color-primary-darkest: #554837; /*#480904;*/
-  --ifm-color-primary-light: #968772; /*#9c3f0a;*/
-  --ifm-color-primary-lighter: #b5a895; /*#b15405;*/
-  --ifm-color-primary-lightest: #cdc0ad; /*#cf812c;*/
-  --ifm-code-font-size: 95%;
-}
+/* :root {
+  --ifm-color-primary: #bf6800;
+  --ifm-color-primary-dark: #ac5e00;
+  --ifm-color-primary-darker: #a25800;
+  --ifm-color-primary-darkest: #864900;
+  --ifm-color-primary-light: #d27200;
+  --ifm-color-primary-lighter: #dc7800;
+  --ifm-color-primary-lightest: #f88700;
+} */
 
+:root {
+  --ifm-color-primary: #d2691e;
+  --ifm-color-primary-dark: #bd5f1b;
+  --ifm-color-primary-darker: #b35919;
+  --ifm-color-primary-darkest: #934a15;
+  --ifm-color-primary-light: #e07528;
+  --ifm-color-primary-lighter: #e27b32;
+  --ifm-color-primary-lightest: #e69052;
+}
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 html[data-theme='dark'] {
   --ifm-color-primary: #cf812c;
