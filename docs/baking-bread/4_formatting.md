@@ -2,14 +2,20 @@
 title: Formázás, lazulás
 ---
 
-# 4. fázis - Formázás, lazulás
->🕒 3 vagy hűtve 12-24 óra
+# 4/5) ![a](../img/szakajto_48px.svg) Formázás, lazulás
+>⚒️ Nettó munka: 5-10 perc  
+>🕒 Pihi: 3 óra (hűtve 12-24 óra)
+
+|![dough](../img/dough_36px.svg "formázás")<br/>formázás|![szakajto](../img/szakajto_36px.svg "szakajtó") <br/>szakajtó|![huto](../img/fridge_36px.svg "kelesztés")<br/>kelesztés|
+|:---:|:---:|:---:|
 
 - [Öntsd ki a tésztát](https://www.instagram.com/p/B4eHtJtgAfw/) enyhén kilisztezett felületre
 - Ha szükséges darabold fel, hogy beleférjen a szakajtóba
 - [Formázd meg](https://www.instagram.com/p/B2XQbU2Amiy/) cipó alakúra és [mehet a szakajtóba](https://www.instagram.com/p/BzBvaJMAqkT/)
 - aznapi sütéssel: Hagyd pihenni 3 órát szobahőmérsékleten egy ronggyal lefedve
 - másnapi sütéssel: Mehet a hűtőbe 1 vagy akár másfél napra is
+
+![format](./img/format.jpg "hajtogatás, formázás és mehet a szakajtóba")
 
 :::tip Tippek a hajtogatáshoz
 - [Szakajtóban](https://www.instagram.com/p/B9tIY9IgbL_/) a konyharuha legyen bőségesen kilisztezve, hogy ne ragadjon bele.
@@ -18,3 +24,4 @@ title: Formázás, lazulás
 :::
 
 “angyalheverő” a ciabatta-ban
+![angyalheveroe](./img/angyalheveroe.jpg)

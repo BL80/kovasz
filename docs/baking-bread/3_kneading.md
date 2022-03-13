@@ -2,13 +2,20 @@
 title: Dagasztás és pihi
 ---
 
-# 3.fázis - Dagasztás és pihi
->🕑 15-20 perc + 2 óra pihi
+# 3/5) ![a](../img/knead_48px.svg) Dagasztás és pihi
+>⚒️ Nettó munka: 15-20 perc  
+>🕑 Pihi: 2 óra
 
-- Szórj a tészta tetejére 15g sót (lehetőleg tengeri sót)
+|![so](../img/so_36px.svg "só")<br/>só|![viz](../img/viz_36px.svg "egy kis víz") <br/>víz|![knead](../img/knead_36px.svg "dagasztás")<br/>dagasztás|
+|:---:|:---:|:---:|
+|20 g|~50g|🕒15 min|
+
+- Szórj a tészta tetejére 20g sót (lehetőleg tengeri sót)
 - Önts a sóra egy kis vizet, épp annyit, hogy feloldódjon a só
 - Elkezdheted [dagasztani](https://www.instagram.com/p/BvQcmf6FzwN/)
 - Ha kész vagy a dagasztással fedd le a dagasztótálat és hagyd pihenni 2 órát
+
+![knead](./img/knead.jpg "só + víz + dagasztás")
 
 :::tip Tippek a  dagasztáshoz
 - Azért tengeri sót, mert a jódozott só megöli a bacikat!

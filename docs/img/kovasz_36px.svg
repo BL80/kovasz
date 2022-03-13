@@ -4,10 +4,10 @@
 <svg
    version="1.1"
    id="svg2"
-   width="396.82956"
-   height="512"
-   viewBox="0 0 396.82956 512"
-   sodipodi:docname="landing_kovasz.svg"
+   width="27.902079"
+   height="36"
+   viewBox="0 0 27.902078 36"
+   sodipodi:docname="kovasz_36px.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,9 +24,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.32"
-     inkscape:cx="276.5625"
-     inkscape:cy="193.75"
+     inkscape:zoom="14.481547"
+     inkscape:cx="7.2851333"
+     inkscape:cy="14.43216"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -44,7 +44,8 @@
      style="display:inline"
      transform="translate(1085.6404,29.125605)">
     <g
-       id="g8755">
+       id="g8755"
+       transform="matrix(0.0703125,0,0,0.0703125,-1009.3063,-27.077711)">
       <g
          id="g120"
          transform="matrix(1.0022486,0,0,1.0022486,-1488.5443,-225.15892)">
