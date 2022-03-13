@@ -59,7 +59,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'sourdough-matrix',
             position: 'left',
             label: 'Kovász',
           },
@@ -79,7 +79,7 @@ const config = {
             items: [
               {
                 label: 'Kovász',
-                to: '/docs/intro',
+                to: '/docs/sourdough-matrix',
               },
             ],
           },
