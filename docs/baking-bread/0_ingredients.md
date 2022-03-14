@@ -38,12 +38,12 @@ Az előbbi recept 2db kb. 700-800g-os kenyeret eredményez, vagy 1db ~1,5 kg-osa
 |:---:|:---:|:---:|---|
 |750 g|450 g|500 g|🕑1-2 óra|
 
-### Dagasztás
+### Dagasztás és pihi
 |![so](../img/so_36px.svg "só")<br/>só|![viz](../img/viz_36px.svg "egy kis víz") <br/>víz|![knead](../img/knead_36px.svg "dagasztás")<br/>dagasztás|![knead](../img/dough_sleeps_36px.svg "pihi a dagasztótálban")<br/>pihi|
 |:---:|:---:|:---:|:---:|
 |20 g|~50g|🕒15 min|🕑1-2 óra|
 
-### Formázás, kelesztés
+### Formázás, lazulás
 |![dough](../img/dough_36px.svg "tészta")<br/>formázás|![szakajto](../img/szakajto_36px.svg "szakajtó") <br/>szakajtóba|![huto](../img/fridge_36px.svg "hűtő")<br/>kelesztés|
 |:---:|:---:|:---:|
 |⚒️5 perc|letakarni|🕛12-24 óra hűtőben |
