@@ -6,9 +6,9 @@ title: Dagasztás és pihi
 >⚒️ Nettó munka: 15-20 perc  
 >🕑 Pihi: 2 óra
 
-|![so](../img/so_36px.svg "só")<br/>só|![viz](../img/viz_36px.svg "egy kis víz") <br/>víz|![knead](../img/knead_36px.svg "dagasztás")<br/>dagasztás|
-|:---:|:---:|:---:|
-|20 g|~50g|🕒15 min|
+|![so](../img/so_36px.svg "só")<br/>só|![viz](../img/viz_36px.svg "egy kis víz") <br/>víz|![knead](../img/knead_36px.svg "dagasztás")<br/>dagasztás|![knead](../img/dough_sleeps_36px.svg "pihi a dagasztótálban")<br/>pihi|
+|:---:|:---:|:---:|:---:|
+|20 g|~50g|🕒15 min|🕑1-2 óra|
 
 - Szórj a tészta tetejére 20g sót (lehetőleg tengeri sót)
 - Önts a sóra egy kis vizet, épp annyit, hogy feloldódjon a só

@@ -6,9 +6,9 @@ title: Tészta összeállítása, autolízis
 >⚒️ Nettó munka: ~10 perc  
 >🕑 Pihi: 1-2 óra  
 
-|![lisz](../img/liszt_36px.svg "liszt")<br/>liszt|![viz](../img/viz_36px.svg "víz")<br/>víz|![kovasz](../img/kovasz_36px.svg "kovász") <br/>kovász|![tal](../img/tal_36px.svg "autolízis") <br/>autolízis|
+|![lisz](../img/liszt_36px.svg "liszt")<br/>liszt|![viz](../img/viz_36px.svg "víz")<br/>víz|![kovasz](../img/kovasz_36px.svg "kovász") <br/>kovász|![tal](../img/tal_sleeps_36px.svg "autolízis") <br/>autolízis|
 |:---:|:---:|:---:|---|
-|750 g|450 g|500 g|1-2 óra pihi|
+|750 g|450 g|500 g|🕑1-2 óra|
 
 - Tégy egy tálba `750g lisztet`  
 *mixelheted is, hogy 4/5 BL80 és 1/5 egyéb erősebb liszt pl. BL200 vagy BL112 stb. A lényeg, hogy legalább a 4/5-e BL80 legyen, mert kezdőknek a BL80 a tuti, azzal könnyű dolgozni és szinte lehetetlen elszúrni* 😄
