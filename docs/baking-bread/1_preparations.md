@@ -2,7 +2,7 @@
 title: Kovász előkészítése
 ---
 
-# 1/5) ![a](../img/kovasz_48px.svg) Kovász előkészítése
+# 1/5 ![a](../img/kovasz_48px.svg) Kovász előkészítése
 
 >⚒️ Nettó munka: 5 perc  
 >🕑 Pihi: 2-4 óra BL80  

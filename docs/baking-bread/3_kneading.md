@@ -2,7 +2,7 @@
 title: Dagasztás és pihi
 ---
 
-# 3/5) ![a](../img/knead_48px.svg) Dagasztás és pihi
+# 3/5 ![a](../img/knead_48px.svg) Dagasztás és pihi
 >⚒️ Nettó munka: 15-20 perc  
 >🕑 Pihi: 2 óra
 

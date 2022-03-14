@@ -2,7 +2,7 @@
 title: Sütés
 ---
 
-# 5/5) ![a](../img/glove_48px.svg) Sütés
+# 5/5 ![a](../img/glove_48px.svg) Sütés
 >🌡️230°C 🕐1 óra  
 >előmelegített sütőben  
 
@@ -31,17 +31,8 @@ title: Sütés
 
 
 Sok sikert, csak ügyesen!  
-egy másik “[flegma pék](https://www.youtube.com/watch?v=AVgZHn8m0ZA)”  
+\- egy másik “flegma pék”  
 *#friscoegyrekenyérebb*
-
-
-
-
-
-
-
-
-
 
 
 <div style={{textAlign: 'right'}}>
