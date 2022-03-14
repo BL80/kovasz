@@ -6,7 +6,7 @@
    id="svg2"
    width="69.753021"
    height="36"
-   viewBox="0 0 69.753021 36"
+   viewBox="0 0 69.753021 36.000001"
    sodipodi:docname="tal_36px.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -30,7 +30,7 @@
      fit-margin-bottom="0"
      inkscape:zoom="4.8222655"
      inkscape:cx="27.061969"
-     inkscape:cy="0.62211423"
+     inkscape:cy="5.5990281"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -41,10 +41,10 @@
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g8"
-     transform="translate(-16.776707,-267.70825)">
+     transform="translate(-16.776707,-279.24726)">
     <g
        id="g66"
-       transform="matrix(0.10228588,0,0,0.10228588,16.740525,236.48585)">
+       transform="matrix(0.10228588,0,0,0.10228588,16.740525,248.02486)">
       <path
          style="fill:#5ad4fd;stroke-width:1.33333"
          d="M 361.14532,394.13976 50.957283,393.80079 48.209958,383.47027 c -3.593775,-13.51335 -9.799686,-38.86691 -9.805038,-46.52445 -0.0088,-12.62329 10.305449,-27.62357 22.81628,-31.09813 3.351083,-0.93068 103.56149,-0.50189 300.20348,-0.50691 327.19374,-0.008 300.4583,-0.86132 311.24974,9.93012 8.47611,8.47611 10.94572,17.23088 8.98803,31.86255 -1.73304,12.95258 -10.76497,47.22078 -11.88102,46.73651 -0.41892,-0.18177 -138.03269,0.45623 -308.63611,0.2698 z"

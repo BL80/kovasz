@@ -7,9 +7,9 @@ title: Kovász előkészítése
 >⚒️ Nettó munka: 5 perc  
 >🕑 Pihi: 2-4 óra BL80  
 
-|![kovasz](../img/kovasz_36px.svg "kovász") <br/>kovász|![lisz](../img/liszt_36px.svg "liszt")<br/>liszt|![viz](../img/viz_36px.svg "víz")<br/>víz|
-|:---:|:---:|:---:|
-|160 g|170 g|170 g|
+|![kovasz](../img/kovasz_36px.svg "kovász") <br/>kovász|![lisz](../img/liszt_36px.svg "liszt")<br/>liszt|![viz](../img/viz_36px.svg "víz")<br/>víz|![kovasz](../img/kovasz_sleeps_36px.svg "fermentálás") <br/>pihi|
+|:---:|:---:|:---:|:---:|
+|160 g|170 g|170 g|🕑2-4 óra|
 
 - Vegyél ki az `anyakovászból ~160g`-ot
 - Etesd meg => adj hozzá `170g lisztet` és `170g vizet`, keverd el, kupakot/fedelet rá és tedd félre pihenni szobahőmérsékleten kb. 2-4 órára  

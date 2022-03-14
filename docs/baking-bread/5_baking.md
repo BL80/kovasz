@@ -5,9 +5,8 @@ title: Sütés
 # 5/5) ![a](../img/glove_48px.svg) Sütés
 >🌡️230°C 🕐1 óra  
 >előmelegített sütőben  
->45 perc alsó sütés gőzben, majd 15 perc felső sütés
 
-![dough-cutter](../img/dough-cutter_36px.svg "bementszés")<br/>bemetszés|![alsosutes](../img/sutes_also_goz_36px.svg "alsó sütés gőzben")<br/>45 min|![felsosutes](../img/sutes_felsoe_36px.svg "felső sütés") <br/>15 min|
+![dough-cutter](../img/dough-cutter_36px.svg "bementszés")<br/>bemetszés|![alsosutes](../img/sutes_also_goz_36px.svg "alsó sütés gőzben")<br/>45′|![felsosutes](../img/sutes_felsoe_36px.svg "felső sütés")<br/>15′|
 |:---:|:---:|:---:|
 |gyors, határozott mozdulattal|alsó + gőz|felső|
 
