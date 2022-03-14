@@ -44,8 +44,9 @@ Az előbbi recept 2db kb. 700-800g-os kenyeret eredményez, vagy 1db ~1,5 kg-osa
 |20 g|~50g|🕒15 min|🕑1-2 óra|
 
 ### Formázás, kelesztés
-|![dough](../img/dough_36px.svg "formázás")<br/>formázás|![szakajto](../img/szakajto_36px.svg "szakajtó") <br/>szakajtóba|![huto](../img/fridge_36px.svg "kelesztés")<br/>kelesztés|
+|![dough](../img/dough_36px.svg "tészta")<br/>formázás|![szakajto](../img/szakajto_36px.svg "szakajtó") <br/>szakajtóba|![huto](../img/fridge_36px.svg "hűtő")<br/>kelesztés|
 |:---:|:---:|:---:|
+|⚒️5 perc|letakarni|🕛12-24 óra hűtőben |
 
 ### Sütés
 |![kesztyupajti](../img/glove_36px.svg "Sütés")<br/>Sütés|![alsosutes](../img/sutes_also_goz_36px.svg "alsó sütés gőzben")<br/>45′|![felsosutes](../img/sutes_felsoe_36px.svg "felső sütés")<br/>15′|

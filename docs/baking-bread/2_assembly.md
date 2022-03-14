@@ -2,7 +2,7 @@
 title: Tészta összeállítása, autolízis
 ---
 
-# 2/5) ![a](../img/dough_48px.svg) Tészta összeállítása, autolízis
+# 2/5 ![a](../img/dough_48px.svg) Tészta összeállítása, autolízis
 >⚒️ Nettó munka: ~10 perc  
 >🕑 Pihi: 1-2 óra  
 

@@ -2,12 +2,13 @@
 title: Formázás, lazulás
 ---
 
-# 4/5) ![a](../img/szakajto_48px.svg) Formázás, lazulás
+# 4/5 ![a](../img/szakajto_48px.svg) Formázás, lazulás
 >⚒️ Nettó munka: 5-10 perc  
 >🕒 Pihi: 3 óra (hűtve 12-24 óra)
 
-|![dough](../img/dough_36px.svg "formázás")<br/>formázás|![szakajto](../img/szakajto_36px.svg "szakajtó") <br/>szakajtóba|![huto](../img/fridge_36px.svg "kelesztés")<br/>kelesztés|
+|![dough](../img/dough_36px.svg "tészta")<br/>formázás|![szakajto](../img/szakajto_36px.svg "szakajtó") <br/>szakajtóba|![huto](../img/fridge_36px.svg "hűtő")<br/>kelesztés|
 |:---:|:---:|:---:|
+|⚒️5 perc|letakarni|🕛12-24 óra hűtőben |
 
 - [Öntsd ki a tésztát](https://www.instagram.com/p/B4eHtJtgAfw/) enyhén kilisztezett felületre
 - Ha szükséges darabold fel, hogy beleférjen a szakajtóba

@@ -15,7 +15,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--outline button--secondary button--lg"
+            className="button button--secondary button--lg"
             to="/docs/baking-bread/ingredients">
             Kenyérsütés 101 - 10min ⏱️
           </Link>
