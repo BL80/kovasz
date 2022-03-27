@@ -1,4 +1,6 @@
 ---
+id: assembly
+sidebar_label: Tészta összeállítása, autolízis
 title: Tészta összeállítása, autolízis
 ---
 

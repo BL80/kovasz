@@ -1,4 +1,6 @@
 ---
+id: ingredients
+sidebar_label: Hozzávalók
 title: Minden itt kezdődik
 ---
 

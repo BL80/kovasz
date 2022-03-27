@@ -1,4 +1,6 @@
 ---
+id: kneading
+sidebar_label: Dagasztás és pihi
 title: Dagasztás és pihi
 ---
 

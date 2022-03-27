@@ -1,4 +1,6 @@
 ---
+id: baking
+sidebar_label: Sütés
 title: Sütés
 ---
 

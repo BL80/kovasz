@@ -1,4 +1,6 @@
 ---
+id: formatting
+sidebar_label: Formázás, lazulás
 title: Formázás, lazulás
 ---
 
