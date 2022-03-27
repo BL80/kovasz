@@ -1,5 +1,7 @@
 ---
-sidebar_position: 1
+id: sourdough-matrix
+sidebar_label: Kovász mátrix
+title: Kovász mátrix
 ---
 
 # Kovász mátrix

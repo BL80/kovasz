@@ -1,4 +1,6 @@
 ---
+id: preparations
+sidebar_label: Kovász előkészítése
 title: Kovász előkészítése
 ---
 
