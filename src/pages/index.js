@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/baking-bread/ingredients">
-            Kenyérsütés 101 - 10min ⏱️
+            Kenyérsütés 101 👆
           </Link>
         </div>
       </div>
