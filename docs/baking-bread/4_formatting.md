@@ -4,13 +4,13 @@ sidebar_label: Formázás, lazulás
 title: Formázás, lazulás
 ---
 
-# 4/5 ![a](../img/szakajto_48px.svg) Formázás, lazulás
+# 4/5 ![a](/img/icons/szakajto_48px.svg) Formázás, lazulás
 >⚒️ Nettó munka: 5-10 perc  
->🕒 Pihi: 3 óra (hűtve 12-24 óra)
+>🕒 Pihi: 3 óra (hűtve ~12 óra)
 
-|![dough](../img/dough_36px.svg "tészta")<br/>formázás|![szakajto](../img/szakajto_36px.svg "szakajtó") <br/>szakajtóba|![huto](../img/fridge_36px.svg "hűtő")<br/>kelesztés|
+|![dough](/img/icons/dough_36px.svg "tészta")<br/>formázás|![szakajto](/img/icons/szakajto_36px.svg "szakajtó") <br/>szakajtóba|![huto](/img/icons/fridge_36px.svg "hűtő")<br/>kelesztés|
 |:---:|:---:|:---:|
-|⚒️5 perc|letakarni|🕛12-24 óra hűtőben |
+|⚒️5 perc|letakarni|🕛~12 óra hűtőben |
 
 - [Öntsd ki a tésztát](https://www.instagram.com/p/B4eHtJtgAfw/) enyhén kilisztezett felületre
 - Ha szükséges darabold fel, hogy beleférjen a szakajtóba
@@ -18,7 +18,7 @@ title: Formázás, lazulás
 - aznapi sütéssel: Hagyd pihenni 3 órát szobahőmérsékleten egy ronggyal lefedve
 - másnapi sütéssel: Mehet a hűtőbe 1 vagy akár másfél napra is
 
-![format](./img/format.jpg "hajtogatás, formázás és mehet a szakajtóba")
+![format](/img/photos/format.jpg "hajtogatás, formázás és mehet a szakajtóba")
 
 :::tip Tippek a hajtogatáshoz
 - [Szakajtóban](https://www.instagram.com/p/B9tIY9IgbL_/) a konyharuha legyen bőségesen kilisztezve, hogy ne ragadjon bele.
@@ -27,4 +27,4 @@ title: Formázás, lazulás
 :::
 
 “angyalheverő” a ciabatta-ban
-![angyalheveroe](./img/angyalheveroe.jpg)
+![angyalheveroe](/img/photos/angyalheveroe.jpg)
