@@ -9,12 +9,28 @@ const config = {
   title: 'FriscoEgyreKenyérebb',
   tagline: 'Avagy mi mindenre jó a kovász',
   url: 'https://kovasz.tk',
-  baseUrl: '/',
+  baseUrl: '/kovasz/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'nynfus corporation', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
+
+  i18n: {
+    defaultLocale: 'hu',
+    locales: ['hu', 'en'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+        label: 'English',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      hu: {
+        htmlLang: 'hu-HU',
+        label: 'Magyar',
+      },
+    },
+  },
 
   presets: [
     [
@@ -65,9 +81,14 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/nynfus/Docusaurus',
-            label: 'GitHub',
+            type: 'localeDropdown',
             position: 'right',
+          },
+          {
+            href: 'https://github.com/nynfus/Docusaurus',
+            className: 'header-github-link',
+            position: 'right',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
@@ -91,7 +112,7 @@ const config = {
                 href: 'https://www.instagram.com/friscoegyrekenyerebb/',
               },
               {
-                label: '✉️ küldés',
+                label: 'e-mail',
                 href: 'mailto:friscoegyrekenyerebb@gmail.com',
               },
             ],
@@ -127,7 +148,7 @@ const config = {
         hashed: true,
         // For Docs using Chinese, The `language` is recommended to set to:
         // ```
-        language: ["en", "hu"],
+        language: ["hu", "en"],
         // ```
         // When applying `zh` in language, please install `nodejieba` in your project.
       },

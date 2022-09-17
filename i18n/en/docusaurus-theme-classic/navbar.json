@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "FriscoEgyreKenyérebb",
+    "description": "The title in the navbar"
+  },
+  "item.label.Kovász": {
+    "message": "Kovász",
+    "description": "Navbar item with label Kovász"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  }
+}
