@@ -9,7 +9,7 @@ const FeatureList = [
       message: "Imádom a friss kenyeret, és te?",
       id: "homepage.features.smell-of-bread.title",
     }),
-    Svg: require("../../static/img/landing_kenyer.svg").default,
+    Svg: require("/img/landing_kenyer.svg").default,
     description: (
       <>
         <Translate id="homepage.features.smell-of-bread.text.part1">
@@ -35,18 +35,25 @@ const FeatureList = [
       message: "Hozzávalók, lássuk csak!",
       id: "homepage.features.ingredients.title",
     }),
-    Svg: require("../../static/img/landing_hozzavalok.svg").default,
+    Svg: require("/img/landing_hozzavalok.svg").default,
     description: (
-      // <Translate id="homepage.features.ingredients.text">
       <>
-        Mi a rák az a ..., mégis honnan vegyek ...? Előfordult, hogy belekezdtél
-        egy receptbe, de a hozzávalók 1/10-e volt csak a spájzban, a feléről meg
-        azt sem tudtad mi fán terem? Kerested az élesztőt a boltban, majd fél
-        óra bóklászás után megkérdeztél egy eladót és azt mondta, hogy{" "}
-        <code>"soha nem is volt"</code>?! Maximum 3-4 alapanyagból szeretnél
-        valami finomat sütni?
+        <Translate id="homepage.features.ingredients.text1">
+          Mi a rák az a ..., mégis honnan vegyek ...? Előfordult, hogy
+          belekezdtél egy receptbe, de a hozzávalók 1/10-e volt csak a spájzban,
+          a feléről meg azt sem tudtad mi fán terem? Kerested az élesztőt a
+          boltban, majd fél óra bóklászás után megkérdeztél egy eladót és azt
+          mondta, hogy
+        </Translate>{" "}
+        <code>
+          <Translate id="homepage.features.ingredients.text2">
+            "soha nem is volt"
+          </Translate>
+        </code>
+        <Translate id="homepage.features.ingredients.text3">
+          ?! Maximum 3-4 alapanyagból szeretnél valami finomat sütni?
+        </Translate>
       </>
-      // </Translate>
     ),
   },
   {
@@ -54,19 +61,48 @@ const FeatureList = [
       message: "Netán mérnöki vénával vagy megáldva?",
       id: "homepage.features.engineer.title",
     }),
-    Svg: require("../../static/img/landing_metrics.svg").default,
+    Svg: require("/img/landing_metrics.svg").default,
     description: (
-      // <Translate id="homepage.features.engineer.text">
       <>
-        Algoritmus alapján sütöd a palacsintát? Falra tudnál mászni a következő
-        mértékegységektől: <code>csipetnyi</code>, <code>mokkáskanál</code>,{" "}
-        <code>egy kis</code>, <code>némi</code>, <code>púpos</code>,{" "}
-        <code>ek</code>? Esetleg már próbálkoztál sütéssel, de nem tudod
-        értelmezni SI-ben az imént felsorolt mértékegységeket? Folyton azon
-        merengsz sütés/főzés közben, hogy vajon szabványos méretű-e az evőkanál,
-        amivel az imént kimérted a sót?
+        <Translate id="homepage.features.engineer.text1">
+          Algoritmus alapján sütöd a palacsintát? Falra tudnál mászni a
+          következő mértékegységektől:
+        </Translate>{" "}
+        <code>
+          <Translate id="homepage.features.engineer.csipetnyi">
+            csipetnyi
+          </Translate>
+        </code>
+        ,{" "}
+        <code>
+          <Translate id="homepage.features.engineer.mokkaas">
+            mokkáskanál
+          </Translate>
+        </code>
+        ,{" "}
+        <code>
+          <Translate id="homepage.features.engineer.egykis">egy kis</Translate>
+        </code>
+        ,{" "}
+        <code>
+          <Translate id="homepage.features.engineer.neemi">némi</Translate>
+        </code>
+        ,{" "}
+        <code>
+          <Translate id="homepage.features.engineer.puupos">púpos</Translate>
+        </code>
+        ,{" "}
+        <code>
+          <Translate id="homepage.features.engineer.ek">ek</Translate>
+        </code>
+        ?{" "}
+        <Translate id="homepage.features.engineer.text2">
+          Esetleg már próbálkoztál sütéssel, de nem tudod értelmezni SI-ben az
+          imént felsorolt mértékegységeket? Folyton azon merengsz sütés/főzés
+          közben, hogy vajon szabványos méretű-e az evőkanál, amivel az imént
+          kimérted a sót?
+        </Translate>
       </>
-      // </Translate>
     ),
   },
   {
@@ -74,7 +110,7 @@ const FeatureList = [
       message: "Új hobbit keresel? Épp midlife krízisben vagy?",
       id: "homepage.features.hobby.title",
     }),
-    Svg: require("../../static/img/landing_hobby.svg").default,
+    Svg: require("/img/landing_hobby.svg").default,
     description: (
       <Translate id="homepage.features.hobby.text">
         Kipróbálnál valami új dolgot, de nem akarsz rá százezreket költeni és
@@ -90,7 +126,7 @@ const FeatureList = [
       message: "Tegyük fel hogy érdekel... de mégis honnan vegyek kovászt?",
       id: "homepage.features.sourdough.title",
     }),
-    Svg: require("../../static/img/landing_kovasz.svg").default,
+    Svg: require("/img/landing_kovasz.svg").default,
     description: (
       <>
         <strong>A)</strong>{" "}
@@ -126,18 +162,20 @@ const FeatureList = [
       id: "homepage.features.tools.title",
     }),
     title: "Na jó, vágjunk bele! Kell valami Specialwerkzeug?",
-    Svg: require("../../static/img/landing_tools.svg").default,
+    Svg: require("/img/landing_tools.svg").default,
     description: (
-      // <Translate id="homepage.features.tools.text">
       <>
-        ✅Fedeles dagasztó/kelesztőtál | ✅Konyharuhák | ✅Penge, vagy éles kés
-        | ❌Szakajtó?! (Ha nincs, jó a ronggyal bélelt tésztaszűrő tál vagy
-        bármilyen edény. A lényeg, hogy nedvszívó legyen!) | ✅Végül de nem
-        utolsó sorban egy jó- kenyérvágó kés, illetve étvágy! 😉
+        <Translate id="homepage.features.tools.text1">
+          ✅Fedeles dagasztó/kelesztőtál | ✅Konyharuhák | ✅Penge, vagy éles
+          kés | ❌Szakajtó?! (Ha nincs, jó a ronggyal bélelt tésztaszűrő tál
+          vagy bármilyen edény. A lényeg, hogy nedvszívó legyen!) | ✅Végül de
+          nem utolsó sorban egy jó- kenyérvágó kés, illetve étvágy! 😉
+        </Translate>
         <br />
-        Megvan minden? Adjunk enni a kovásznak és hajrá!
+        <Translate id="homepage.features.tools.text2">
+          Megvan minden? Adjunk enni a kovásznak és hajrá!
+        </Translate>
       </>
-      // </Translate>
     ),
   },
 ];

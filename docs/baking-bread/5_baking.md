@@ -2,11 +2,11 @@
 title: Sütés
 ---
 
-# 5/5 ![a](../img/glove_48px.svg) Sütés
+# 5/5 ![a](/img/icons/glove_48px.svg) Sütés
 >🌡️230°C 🕐1 óra  
 >előmelegített sütőben  
 
-![dough-cutter](../img/dough-cutter_36px.svg "bementszés")<br/>bemetszés|![alsosutes](../img/sutes_also_goz_36px.svg "alsó sütés gőzben")<br/>45′|![felsosutes](../img/sutes_felsoe_36px.svg "felső sütés")<br/>15′|
+![dough-cutter](/img/icons/dough-cutter_36px.svg "bementszés")<br/>bemetszés|![alsosutes](/img/icons/sutes_also_goz_36px.svg "alsó sütés gőzben")<br/>45′|![felsosutes](/img/icons/sutes_felsoe_36px.svg "felső sütés")<br/>15′|
 |:---:|:---:|:---:|
 |gyors, határozott mozdulattal|alsó + gőz|felső|
 
@@ -20,7 +20,7 @@ title: Sütés
 - Ha kész, kiveszed a sütőből és rácsra teszed hűlni, hogy ne pálljon be az alja
 - Legalább fél órát hagyd hűlni ha bírod 😄
 
-![finish](./img/finish.jpg)
+![finish](/img/photos/finish.jpg)
 
 :::tip Tippek a sütéshez
 - Ajánlott a maximumra hőfokra előmelegíteni a sütőt, mert amikor bekerül a tészta nemcsak a nyitástól csökken a hőmérséklet, hanem a hűtőből imént kivett nagy tömegű hideg tésztától is.
