@@ -2,35 +2,32 @@
   "homepage.features.smell-of-bread.title": {
     "message": "I really like fresh bread and you?"
   },
-  "homepage.features.smell-of-bread.text": {
-    "message": "? Ha tehetnéd minden nap csakis frissen sült pékárut reggeliznél?"
-  },
   "homepage.features.ingredients.title": {
-    "message": "Hozzávalók, lássuk csak!"
+    "message": "Ingredients, let's see!"
   },
   "homepage.features.ingredients.text": {
-    "message": "?! Maximum 3-4 alapanyagból szeretnél valami finomat sütni?"
+    "message": "?! Would you like to bake something delicious using only 3 ingredients?"
   },
   "homepage.features.engineer.title": {
-    "message": "Netán mérnöki vénával vagy megáldva?"
+    "message": "Are you blessed with an engineering streak?"
   },
   "homepage.features.engineer.text": {
-    "message": "? Esetleg már próbálkoztál sütéssel, de nem tudod értelmezni SI-ben az imént felsorolt mértékegységeket? Folyton azon merengsz sütés/főzés közben, hogy vajon szabványos méretű-e az evőkanál, amivel az imént kimérted a sót?"
+    "message": "? Maybe you've already tried baking, but you can't interpret the units of measure just listed in SI? You keep wondering during baking/cooking whether the tablespoon you just used to measure salt is a standard sized spoon?"
   },
   "homepage.features.hobby.title": {
-    "message": "Új hobbit keresel? Épp midlife krízisben vagy?"
+    "message": "Looking for a new hobby? Are you in a midlife crisis?"
   },
   "homepage.features.hobby.text": {
-    "message": "Kipróbálnál valami új dolgot, de nem akarsz rá százezreket költeni és utálsz futni? Nem tudod hogy üsd el hasznosan a végtelen szabadidődet? A gondoskodás a középső neved? Imádsz vendégül látni másokat? Szeretnél egy igénytelen háziállatot? Érdekel a mikrobiológia? Ha az előző kérdések bármelyikével tudtál azonosulni, akkor jó helyen jársz! 😜"
+    "message": "Would you like to try something new, but don't want to spend hundreds of thousands and hate running? You don't know how to make use of your endless free time? Is caring your middle name? Do you like to host others? Would you like to have an unpretentious pet? Are you interested in microbiology? If you could identify with any of the previous questions, then you are at the right place! 😜"
   },
   "homepage.features.sourdough.title": {
-    "message": "Tegyük fel hogy érdekel... de mégis honnan vegyek kovászt?"
+    "message": "Let's say you're interested... but where should I get sourdough?"
   },
   "homepage.features.tools.title": {
-    "message": "Na jó, vágjunk bele! Kell valami Specialwerkzeug?"
+    "message": "Well, let's get into it! Does it require some special tool?"
   },
   "homepage.features.tools.text": {
-    "message": "Megvan minden? Adjunk enni a kovásznak és hajrá!"
+    "message": "Do you have everything? Let's feed the sourdough and bake!"
   },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
@@ -288,10 +285,10 @@
     "description": "The title of the tag list page"
   },
   "homepage.features.sourdough.text1": {
-    "message": "Kérj valakitől. Ha nincs az ismerőseid között házipék, akkor próbálj meg kunyizni a legközelebbi pékségből, már 1 kanálnyi (20g) elég a kezdéshez. Ha nem tudnak adni, akkor az nem is igazi pékség!"
+    "message": "Ask from someone. If you don't have a home baker among your friends, try getting some from the nearest bakery, just 1 spoonful (20g) is enough to get started. If they can't give, then it's not a real bakery!"
   },
   "homepage.features.sourdough.text2": {
-    "message": "Csinálj magadnak! Kicsit macerás, eltart pár napig, de nem vészes. Csak víz kell hozzá meg a liszt."
+    "message": "Do it for yourself! It's a bit fiddly, it takes a few days, but it's not a big deal. All you need is water and flour."
   },
   "homepage.features.sourdough.text3": {
     "message": "Google is your friend!"
@@ -306,12 +303,51 @@
     "message": "Baking bread 101 👆"
   },
   "homepage.features.smell-of-bread.text.part1": {
-    "message": "Are you crazy of the smell of fresh bread? Are you usally amongst the first customers at the local bakery in the morning, so you can eat the freshly baked and hot 🍞🥐🥖? You are either a hedonist or do you just like to eat good things? When you were a child, did you run around with a piece of bread in your mouth while your mother was bagging you to finally put on your coat on the way to the daycare? Your father kept saying"
+    "message": "Are you crazy of the smell of fresh bread? Are you usally amongst the first customers at the local bakery in the morning, so you can eat the freshly baked and hot 🍞🥐🥖? Are you either a hedonist or do you just like to eat good things? When you were a child, did you run around with a piece of bread in your mouth while your mother was bagging you to finally put on your coat on the way to the daycare? Your father kept saying"
   },
   "homepage.features.smell-of-bread.text.part2": {
     "message": "\"Let the dry run out first, don't start the fresh until then!\""
   },
   "homepage.features.smell-of-bread.text.part3": {
     "message": "? If you could, you would have only freshly baked goods for breakfast every day?"
+  },
+  "homepage.features.ingredients.text1": {
+    "message": "WTF is ..., but where should I get ...? Has it happened that you started to cook, but only a third of the ingredients were in the pantry, and you didn't even know about the rest what tree does it grow on? You looked for yeast in the store, and after half an hour of wandering around, you asked a salesperson and he said that"
+  },
+  "homepage.features.ingredients.text2": {
+    "message": "\"we never had any\""
+  },
+  "homepage.features.ingredients.text3": {
+    "message": "?! Would you like to bake something delicious with a maximum of 3 ingredients?"
+  },
+  "homepage.features.engineer.text1": {
+    "message": "Do you bake pancakes based on an algorithm? You could climb a wall with the following units of measurement:"
+  },
+  "homepage.features.engineer.csipetnyi": {
+    "message": "a pinch"
+  },
+  "homepage.features.engineer.mokkaas": {
+    "message": "mocha spoon"
+  },
+  "homepage.features.engineer.egykis": {
+    "message": "a little"
+  },
+  "homepage.features.engineer.neemi": {
+    "message": "some"
+  },
+  "homepage.features.engineer.puupos": {
+    "message": "hunchbacked"
+  },
+  "homepage.features.engineer.ek": {
+    "message": "tablespoon"
+  },
+  "homepage.features.engineer.text2": {
+    "message": "Maybe you've already tried baking, but you can't interpret the units of measure just listed in SI? Do you constantly wonder while baking/cooking whether the tablespoon you just used to measure salt is the standard size?"
+  },
+  "homepage.features.tools.text1": {
+    "message": "✅ Covered kneader/yeast bowl | ✅Kitchen shoes | ✅Blade or sharp knife | ❌Separate door?! (If you don't have one, a pasta filter bowl lined with a cloth or any container is good. The main thing is that it's absorbent!) | ✅Last but not least, a good bread knife and an appetite! 😉"
+  },
+  "homepage.features.tools.text2": {
+    "message": "Do you have everything? Let's feed the sourdough and let's bake!"
   }
 }
