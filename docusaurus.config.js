@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'FriscoEgyreKenyérebb',
   tagline: 'Avagy mi mindenre jó a kovász',
-  url: 'https://kovasz.tk',
-  baseUrl: '/',
+  url: 'https://nynfus.github.io',
+  baseUrl: '/kovasz',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
