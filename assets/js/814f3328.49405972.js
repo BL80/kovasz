@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud83c\udf55PizzaP\xe9ntek","permalink":"/blog/20220226-notes_pizza"},{"title":"\xdcdv az oldalon!","permalink":"/blog/welcome"}]}')}}]);

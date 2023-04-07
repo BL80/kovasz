@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[230],{9549:function(e){e.exports=JSON.parse('{"allTagsPath":"/kovasz/blog/tags","slug":"/kovasz/blog/tags/pizzapentek","name":"pizzap\xe9ntek","count":1,"permalink":"/kovasz/blog/tags/pizzapentek"}')}}]);

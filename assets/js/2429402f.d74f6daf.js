@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[545],{2153:function(s){s.exports=JSON.parse('{"allTagsPath":"/kovasz/blog/tags","slug":"/kovasz/blog/tags/udvozlet","name":"\xfcdv\xf6zlet","count":1,"permalink":"/kovasz/blog/tags/udvozlet"}')}}]);
