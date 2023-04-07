@@ -9,7 +9,7 @@ const config = {
   title: 'FriscoEgyreKenyérebb',
   tagline: 'Avagy mi mindenre jó a kovász',
   url: 'https://nynfus.github.io',
-  baseUrl: '/kovasz',
+  baseUrl: '/kovasz/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
