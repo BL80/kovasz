@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[923],{2169:function(a){a.exports=JSON.parse('{"allTagsPath":"/kovasz/blog/tags","slug":"/kovasz/blog/tags/pizza","name":"pizza","count":1,"permalink":"/kovasz/blog/tags/pizza"}')}}]);

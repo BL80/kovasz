@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[766],{9132:function(s){s.exports=JSON.parse('{"allTagsPath":"/kovasz/blog/tags","slug":"/kovasz/blog/tags/hello","name":"hello","count":1,"permalink":"/kovasz/blog/tags/hello"}')}}]);

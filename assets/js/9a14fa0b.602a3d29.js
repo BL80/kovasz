@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[102],{9618:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/udvozlet","name":"\xfcdv\xf6zlet","count":1,"permalink":"/blog/tags/udvozlet"}')}}]);

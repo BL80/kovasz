@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[90],{2440:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/pizzapentek","name":"pizzap\xe9ntek","count":1,"permalink":"/blog/tags/pizzapentek"}')}}]);
