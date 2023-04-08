@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[27],{3659:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/naplo","name":"napl\xf3","count":1,"permalink":"/blog/tags/naplo"}')}}]);
