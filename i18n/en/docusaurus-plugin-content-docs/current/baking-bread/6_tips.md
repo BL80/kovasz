@@ -1,4 +1,6 @@
 ---
+id: tips
+sidebar_label: 🚧Experiences
 title: 🚧Experiences
 ---
 

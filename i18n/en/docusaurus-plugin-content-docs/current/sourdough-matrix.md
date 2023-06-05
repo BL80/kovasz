@@ -1,4 +1,7 @@
 ---
+id: sourdough-matrix
+sidebar_label: Sourdough Matrix
+title: Sourdough Matrix
 sidebar_position: 1
 ---
 

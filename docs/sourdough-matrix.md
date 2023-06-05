@@ -2,6 +2,7 @@
 id: sourdough-matrix
 sidebar_label: Kovász mátrix
 title: Kovász mátrix
+sidebar_position: 1
 ---
 
 # Kovász mátrix

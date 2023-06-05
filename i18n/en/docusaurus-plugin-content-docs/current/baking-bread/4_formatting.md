@@ -1,4 +1,6 @@
 ---
+id: formatting
+sidebar_label: Shaping, loosening
 title: Shaping, loosening
 ---
 

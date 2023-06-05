@@ -1,4 +1,6 @@
 ---
+id: preparations
+sidebar_label: Preparing sourdough
 title: Preparing sourdough
 ---
 

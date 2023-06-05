@@ -12,10 +12,10 @@ title: Minden itt kezdődik
 
 |Ikon|Hozzávalók|Klasszikus|Rozsos|Rozsos big|
 |:---:|---|---:|---:|---:|
-|![kovasz](../img/kovasz_36px.svg "kovász")|[kovász](https://www.google.com/search?q=kov%C3%A1sz+k%C3%A9sz%C3%ADt%C3%A9se)|500 g|300 g|450 g|
-|![liszt](../img/liszt_36px.svg "liszt")|[liszt (BL80)](https://garatmalom.hu/shop/bl-80-kenyerliszt/ "A recept a garatmalom lisztjével lett kipróbálva")|750 g|600+150 g|800+200 g|
-|![viz](../img/viz_36px.svg "víz")|víz|500 g|500 g|600 g|
-|![so](../img/so_36px.svg "só")|só|20 g|20 g|20 g|
+|![kovasz](/img/icons/kovasz_36px.svg "kovász")|[kovász](https://www.google.com/search?q=kov%C3%A1sz+k%C3%A9sz%C3%ADt%C3%A9se)|500 g|300 g|450 g|
+|![liszt](/img/icons/liszt_36px.svg "liszt")|[liszt (BL80)](https://garatmalom.hu/shop/bl-80-kenyerliszt/ "A recept a garatmalom lisztjével lett kipróbálva")|750 g|600+150 g|800+200 g|
+|![viz](/img/icons/viz_36px.svg "víz")|víz|500 g|500 g|600 g|
+|![so](/img/icons/so_36px.svg "só")|só|20 g|20 g|20 g|
 
 :::info
 Az előbbi recept 2db kb. 700-800g-os kenyeret eredményez, vagy 1db ~1,5 kg-osat, ami azt jelenti, hogy két M-es vagy egy XXL-es szakajtóra lesz szükség.

@@ -1,4 +1,6 @@
 ---
+id: kneading
+sidebar_label: Kneading and resting
 title: Kneading and resting
 ---
 
