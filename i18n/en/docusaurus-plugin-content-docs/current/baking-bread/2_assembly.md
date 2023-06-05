@@ -1,4 +1,6 @@
 ---
+id: assembly
+sidebar_label: Dough assembly, autolyse
 title: Dough assembly, autolyse
 ---
 

@@ -61,7 +61,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'Ha tetszik az oldal, kövesd <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/friscoegyrekenyerebb/">instán</a>👍',
+          'If you like this page follow on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/friscoegyrekenyerebb/">Instagram</a>👍',
         backgroundColor: '#887964',
         textColor: '#ffffff',
         isCloseable: true,

@@ -1,4 +1,6 @@
 ---
+id: ingredients
+sidebar_label: Ingredients
 title: Everything starts here
 ---
 
