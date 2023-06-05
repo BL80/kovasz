@@ -4,12 +4,12 @@ sidebar_label: Kovász előkészítése
 title: Kovász előkészítése
 ---
 
-# 1/5 ![a](../img/kovasz_48px.svg) Kovász előkészítése
+# 1/5 ![a](/img/icons/kovasz_48px.svg) Kovász előkészítése
 
 >⚒️ Nettó munka: 5 perc  
 >🕑 Pihi: 2-4 óra BL80  
 
-|![kovasz](../img/kovasz_36px.svg "kovász") <br/>kovász|![lisz](../img/liszt_36px.svg "liszt")<br/>liszt|![viz](../img/viz_36px.svg "víz")<br/>víz|![kovasz](../img/kovasz_sleeps_36px.svg "fermentálás") <br/>pihi|
+|![kovasz](/img/icons/kovasz_36px.svg "kovász") <br/>kovász|![lisz](/img/icons/liszt_36px.svg "liszt")<br/>liszt|![viz](/img/icons/viz_36px.svg "víz")<br/>víz|![kovasz](/img/icons/kovasz_sleeps_36px.svg "fermentálás") <br/>pihi|
 |:---:|:---:|:---:|:---:|
 |160 g|170 g|170 g|🕑2-4 óra|
 
@@ -18,8 +18,8 @@ title: Kovász előkészítése
 🌡️ *hőmérséklettől függ, ne legyen 40°C foknál melegebb helyen, mert megpusztul!*
 - Az anyakovászba pótold vissza a hiányzó 160g-ot (hogy legközelebb is legyen miből sütni 😉), azaz adj hozzá 80g lisztet és 80g vizet és mehet vissza egyből a hűtőbe
 
-![kovasz](./img/kovasz.jpg "kovász érlelés")
-![kovasz](./img/kovasz_makro.jpg)
+![kovasz](/img/photos/kovasz.jpg "kovász érlelés")
+![kovasz](/img/photos/kovasz_makro.jpg)
 
 :::tip Tippek a kovász etetéshez
 - A víz testhőmérsékletű legyen. Hidegebb is lehet, akkor lassabban fog feljönni. Melegebb semmiképp, 40°C fölött megdöglik a kovász!!!

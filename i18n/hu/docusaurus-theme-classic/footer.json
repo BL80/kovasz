@@ -1,0 +1,38 @@
+{
+  "link.title.Receptek": {
+    "message": "Receptek",
+    "description": "The title of the footer links column with title=Receptek in the footer"
+  },
+  "link.title.Kapcsolat": {
+    "message": "Kapcsolat",
+    "description": "The title of the footer links column with title=Kapcsolat in the footer"
+  },
+  "link.title.Egyéb": {
+    "message": "Egyéb",
+    "description": "The title of the footer links column with title=Egyéb in the footer"
+  },
+  "link.item.label.Kovász": {
+    "message": "Kovász",
+    "description": "The label of footer link with label=Kovász linking to /docs/sourdough-matrix"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/friscoegyrekenyerebb/"
+  },
+  "link.item.label.e-mail": {
+    "message": "e-mail",
+    "description": "The label of footer link with label=e-mail linking to mailto:friscoegyrekenyerebb@gmail.com"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/bl80/kovasz"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 #friscoegyrekenyerebb, Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

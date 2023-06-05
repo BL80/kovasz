@@ -1,16 +1,14 @@
 ---
-id: sourdough-matrix
-sidebar_label: Kovász mátrix
-title: Kovász mátrix
+sidebar_position: 1
 ---
 
-# Kovász mátrix
-Az alábbi táblázatban minden érték grammban értendő!
+# Sourdough Matrix
+All values in the table below are in grams!
 
-|🧺|recept|![kovasz](/img/icons/kovasz_48px.svg "kovász") |![liszt](/img/icons/liszt_36px.svg "liszt") |![viz](/img/icons/viz_36px.svg "víz") |![so](/img/icons/so_36px.svg "só") |![tej](/img/icons/tej_36px.svg "tej")|![cukor](/img/icons/cukor_36px.svg "cukor")|![vaj](/img/icons/vaj_36px.svg "vaj")|
+|🧺|recipe|![kovasz](/img/icons/kovasz_48px.svg "sourdough") |![liszt](/img/icons/liszt_36px.svg "flour") |![viz](/img/icons/viz_36px.svg "water") |![so](/img/icons/so_36px.svg "salt") |![tej](/img/icons/tej_36px.svg "milk")|![cukor](/img/icons/cukor_36px.svg "sugar")|![vaj](/img/icons/vaj_36px.svg "butter")|
 |:---:|---|---:|---:|---:|---:|---:|---:|---:|
-|![kenyer](/img/icons/kenyer_24px.svg "kenyér")         |[kenyér](./baking-bread/ingredients)   |500   |750  |450|20|🚫|🚫|🚫 |
-|![kifli](/img/icons/kifli_24px.svg "kifli")            |kifli    |200   |475  |120|12|150 |30   |25 |
+|![kenyer](/img/icons/kenyer_24px.svg "bread")         |[bread](./baking-bread/ingredients)   |500   |750  |450|20|🚫|🚫|🚫 |
+|![kifli](/img/icons/kifli_24px.svg "crescent roll")            |crescent roll    |200   |475  |120|12|150 |30   |25 |
 |![baguette](/img/icons/baguette_24px.svg "baguette")   |baguette |140   |500  |400|10|🚫 |🚫   |🚫 |
 |![pizza](/img/icons/pizza_24px.svg "pizza")            |pizza    |biga  |250  |250|14|🚫 |🚫   |🚫 |
 |                                                  |biga     |100   |250  |150|🚫|🚫 |🚫   |🚫 |
@@ -18,5 +16,5 @@ Az alábbi táblázatban minden érték grammban értendő!
 |                                                  |croi1    |croi0 |100  |45 |🚫|🚫 |25   |🚫 |
 |                                                  |croi0    |25    |50   |20 |🚫|🚫 |12   |🚫 |
 
-## Az eredeti táblázat
+## The original Sourdough Matrix
 ![sourdoughmatrix](/img/photos/sourdoughmatrix.jpg)

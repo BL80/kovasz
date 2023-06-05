@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Következő",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Kenyérsütés 101": {
+    "message": "Kenyérsütés 101",
+    "description": "The label for category Kenyérsütés 101 in sidebar tutorialSidebar"
+  }
+}

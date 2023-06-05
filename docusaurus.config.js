@@ -16,6 +16,22 @@ const config = {
   organizationName: 'nynfus corporation', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
+  i18n: {
+    defaultLocale: 'hu',
+    locales: ['hu', 'en'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+        label: 'English',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      hu: {
+        htmlLang: 'hu-HU',
+        label: 'Magyar',
+      },
+    },
+  },
+
   presets: [
     [
       'classic',
@@ -24,13 +40,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/bl80/Docusaurus/tree/main/',
+          editUrl: 'https://github.com/bl80/kovasz/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/bl80/Docusaurus/tree/main/',
+            'https://github.com/bl80/kovasz/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,9 +81,14 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/bl80/Docusaurus',
-            label: 'GitHub',
+            type: 'localeDropdown',
             position: 'right',
+          },
+          {
+            href: 'https://github.com/bl80/kovasz',
+            className: 'header-github-link',
+            position: 'right',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
@@ -91,7 +112,7 @@ const config = {
                 href: 'https://www.instagram.com/friscoegyrekenyerebb/',
               },
               {
-                label: '✉️ küldés',
+                label: 'e-mail',
                 href: 'mailto:friscoegyrekenyerebb@gmail.com',
               },
             ],
@@ -105,7 +126,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/bl80/Docusaurus',
+                href: 'https://github.com/bl80/kovasz',
               },
             ],
           },
@@ -127,7 +148,7 @@ const config = {
         hashed: true,
         // For Docs using Chinese, The `language` is recommended to set to:
         // ```
-        language: ["en", "hu"],
+        language: ["hu", "en"],
         // ```
         // When applying `zh` in language, please install `nodejieba` in your project.
       },
