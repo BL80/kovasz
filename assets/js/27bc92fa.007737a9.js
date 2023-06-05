@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkovasz=self.webpackChunkkovasz||[]).push([[5540],{6456:a=>{a.exports=JSON.parse('{"label":"welcome","permalink":"/kovasz/blog/tags/welcome","allTagsPath":"/kovasz/blog/tags","count":1}')}}]);

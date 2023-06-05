@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>FriscoEgyreKenyérebb Blog</title>
+        <link>https://bl80.github.io/kovasz/en/blog</link>
+        <description>FriscoEgyreKenyérebb Blog</description>
+        <lastBuildDate>Sat, 26 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[🍕PizzaPéntek]]></title>
+            <link>https://bl80.github.io/kovasz/en/blog/20220226-notes_pizza</link>
+            <guid>https://bl80.github.io/kovasz/en/blog/20220226-notes_pizza</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Same in English.]]></description>
+            <content:encoded><![CDATA[<p>Same in English.
+🈺 Translation in progress...</p>]]></content:encoded>
+            <category>napló</category>
+            <category>pizza</category>
+            <category>pizzapéntek</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the site!]]></title>
+            <link>https://bl80.github.io/kovasz/en/blog/welcome</link>
+            <guid>https://bl80.github.io/kovasz/en/blog/welcome</guid>
+            <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introduction]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>Hello! I'm Adi. I like 🚲cycling and 🍞baking.</p><p>Same in English.
+🈺 Translation in progress...</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="purpose-of-the-site">Purpose of the site<a href="#purpose-of-the-site" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>Same in English.
+🈺 Translation in progress...</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="sourdough-only">Sourdough only<a href="#sourdough-only" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>Yes, it's all about sourdough here. Forget yeast and baking powder!</p><p>Recipes here take time, days. If you want to quickly bake something delicious, you're at the wrong place. This hobby requires patience. Working with sourdough is not only a workout, but also a meditation exercise, a kind of mental and physical training. I especially recommend it to people who are struggling with time management. If you do this, you will learn to manage your time and plan your week in advance.</p><p>Sourdough is a living creature, like a pet, it lives in the fridge and only asks to eat once a week.</p><p><img loading="lazy" alt="logo" src="/kovasz/en/assets/images/logo-4e2ccdc4a46726747dac11f01a62dc3b.png" width="256" height="256" class="img_ev3q"></p>]]></content:encoded>
+            <category>welcome</category>
+            <category>hello</category>
+            <category>hi</category>
+        </item>
+    </channel>
+</rss>

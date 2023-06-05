@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[393],{8630:function(a){a.exports=JSON.parse('{"allTagsPath":"/kovasz/blog/tags","slug":"/kovasz/blog/tags/naplo","name":"napl\xf3","count":1,"permalink":"/kovasz/blog/tags/naplo"}')}}]);

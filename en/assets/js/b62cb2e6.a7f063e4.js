@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkovasz=self.webpackChunkkovasz||[]).push([[9302],{7659:a=>{a.exports=JSON.parse('{"label":"napl\xf3","permalink":"/kovasz/en/blog/tags/naplo","allTagsPath":"/kovasz/en/blog/tags","count":1}')}}]);
