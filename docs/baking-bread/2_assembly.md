@@ -4,11 +4,11 @@ sidebar_label: Tészta összeállítása, autolízis
 title: Tészta összeállítása, autolízis
 ---
 
-# 2/5 ![a](../img/dough_48px.svg) Tészta összeállítása, autolízis
+# 2/5 ![a](/img/icons/dough_48px.svg) Tészta összeállítása, autolízis
 >⚒️ Nettó munka: ~10 perc  
 >🕑 Pihi: 1-2 óra  
 
-|![lisz](../img/liszt_36px.svg "liszt")<br/>liszt|![viz](../img/viz_36px.svg "víz")<br/>víz|![kovasz](../img/kovasz_36px.svg "kovász") <br/>kovász|![tal](../img/tal_sleeps_36px.svg "autolízis") <br/>autolízis|
+|![lisz](/img/icons/liszt_36px.svg "liszt")<br/>liszt|![viz](/img/icons/viz_36px.svg "víz")<br/>víz|![kovasz](/img/icons/kovasz_36px.svg "kovász") <br/>kovász|![tal](/img/icons/tal_sleeps_36px.svg "autolízis") <br/>autolízis|
 |:---:|:---:|:---:|---|
 |750 g|450 g|500 g|🕑1-2 óra|
 
@@ -18,7 +18,7 @@ title: Tészta összeállítása, autolízis
 - Végül öntsd hozzá a felhizlalt `500 g kovászt` és [keverd össze](https://www.instagram.com/p/Bve4fH3lHyE/), de csak épp annyira, hogy felszívja a vizet a liszt, és egy nagy masszává álljon össze, itt még nem dagasztunk!!! (lásd lenti fotón)
 - Tedd félre 1-2 órára pihenni (fedett dagasztótálban)
 
-![assembly1](./img/assemble1.jpg "így keverd össze 🥣")
+![assembly1](/img/photos/assemble1.jpg "így keverd össze 🥣")
 
 :::tip Tippek az autolízishez
 - Én szilikon lapáttal szoktam összekeverni a hozzávalókat nem kézzel, mert ilyenkor nagyon ragad minden.

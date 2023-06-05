@@ -4,11 +4,11 @@ sidebar_label: Dagasztás és pihi
 title: Dagasztás és pihi
 ---
 
-# 3/5 ![a](../img/knead_48px.svg) Dagasztás és pihi
+# 3/5 ![a](/img/icons/knead_48px.svg) Dagasztás és pihi
 >⚒️ Nettó munka: 15-20 perc  
 >🕑 Pihi: 2 óra
 
-|![so](../img/so_36px.svg "só")<br/>só|![viz](../img/viz_36px.svg "egy kis víz") <br/>víz|![knead](../img/knead_36px.svg "dagasztás")<br/>dagasztás|![knead](../img/dough_sleeps_36px.svg "pihi a dagasztótálban")<br/>pihi|
+|![so](/img/icons/so_36px.svg "só")<br/>só|![viz](/img/icons/viz_36px.svg "egy kis víz") <br/>víz|![knead](/img/icons/knead_36px.svg "dagasztás")<br/>dagasztás|![knead](/img/icons/dough_sleeps_36px.svg "pihi a dagasztótálban")<br/>pihi|
 |:---:|:---:|:---:|:---:|
 |20 g|~50g|🕒15 min|🕑1-2 óra|
 
@@ -17,7 +17,7 @@ title: Dagasztás és pihi
 - Elkezdheted [dagasztani](https://www.instagram.com/p/BvQcmf6FzwN/)
 - Ha kész vagy a dagasztással fedd le a dagasztótálat és hagyd pihenni 2 órát
 
-![knead](./img/knead.jpg "só + víz + dagasztás")
+![knead](/img/photos/knead.jpg "só + víz + dagasztás")
 
 :::tip Tippek a  dagasztáshoz
 - Azért tengeri sót, mert a jódozott só megöli a bacikat!

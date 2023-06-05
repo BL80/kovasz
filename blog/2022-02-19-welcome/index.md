@@ -33,4 +33,4 @@ A receptekhez idő kell, napok. Ha gyorsan szeretnél valami finomat sütni, akk
 
 A kovász egy élőlény, amolyan háziállat, a hűtőben lakik és csak hetente kér enni.
 
-![logo](../../static/img/logo.png)
+![logo](/img/logo.png)

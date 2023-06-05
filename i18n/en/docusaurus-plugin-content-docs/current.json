@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Kenyérsütés 101": {
+    "message": "Baking Bread 101",
+    "description": "The label for category Baking Bread 101 in sidebar tutorialSidebar"
+  }
+}
