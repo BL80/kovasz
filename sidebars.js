@@ -31,7 +31,7 @@ const sidebars = {
     'sourdough-matrix',
     {
       type: 'category',
-      label: 'Kenyérsütés 101',
+      label: 'BakingBread101',
       link: {
         type: 'generated-index',
       },

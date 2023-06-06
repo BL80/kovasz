@@ -3,8 +3,8 @@
     "message": "Következő",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Kenyérsütés 101": {
+  "sidebar.tutorialSidebar.category.BakingBread101": {
     "message": "Kenyérsütés 101",
-    "description": "The label for category Kenyérsütés 101 in sidebar tutorialSidebar"
+    "description": "The label for category BakingBread101 in sidebar tutorialSidebar"
   }
 }
