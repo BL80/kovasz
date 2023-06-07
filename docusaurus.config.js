@@ -75,7 +75,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'sourdough-matrix',
+            docId: 'sourdough',
             position: 'left',
             label: 'Kovász',
           },

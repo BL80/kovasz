@@ -28,6 +28,7 @@ const sidebars = {
    */
 
   docs: [
+    'sourdough',
     'sourdough-matrix',
     {
       type: 'category',

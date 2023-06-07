@@ -144,13 +144,9 @@ const FeatureList = [
         <br />
         <strong>
           <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://www.google.com/search?q=kov%C3%A1sz+k%C3%A9sz%C3%ADt%C3%A9se"
+            href="docs/sourdough"
           >
-            <Translate id="homepage.features.sourdough.text3">
-              A google a barátod!
-            </Translate>
+            <Translate id="homepage.features.sourdough.text3"/>
           </a>
         </strong>
       </>
