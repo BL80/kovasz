@@ -1,43 +1,43 @@
 ---
 id: sourdough
-sidebar_label: Kovász
-title: Miből lesz a kovász?
+sidebar_label: Sourdough
+title: What is sourdough made of?
 sidebar_position: 2
 ---
 
-# ![a](/img/icons/kovasz_48px.svg) Amit a kovászról tudni érdemes
+# ![a](/img/icons/kovasz_48px.svg) What you should know about sourdough starter
 
-## Miből lesz a kovász?
-...merül fel a kérdés. A válasz pofon egyszerű, vízből és lisztből.
+## What is sourdough made of?
+...the question arises. The answer is surprisingly simple: water and flour.
 
- ![viz](/img/icons/viz_48px.svg "víz") ![liszt](/img/icons/liszt_48px.svg "liszt")
+ ![water](/img/icons/viz_48px.svg "water") ![flour](/img/icons/liszt_48px.svg "flour")
 
-### Szükséges eszközök 
-- Befőttes üveg vagy műanyag edény. A lényeg, hogy ne fém legyen, mert a kovász savas.
-- Légáteresztő fedő, például konyharuha.
+### Required tools and equipment 
+- Mason jar or plastic container. The key is to avoid using metal as the sourdough is acidic.
+- Breathable cover, such as a kitchen towel.
 
-![yeast](/img/icons/yeast_48px.svg "befőttesüveg")
+![yeast](/img/icons/yeast_48px.svg "jar")
 
 
-### Kovász készítése
->⚒️ Nettó munka: ~naponta 5 perc  
->🕒 Bruttó elkészítési idő: 3-10 🌞
+### Making sourdough starter.
+>⚒️ Net work: ~naponta 5 perc  
+>🕒 Total preparation time: 3-10 🌞
 
-1. Tégy 150g lisztet (ajánlott: teljes kiörlésű) és vizet egy nagy befőttesüvegbe, keverd össze és fedd le.
-1. Hagyd állni meleg helyen 12-24 órát.
-1. Dobd ki a felét és helyettesítsd 75g liszttel és vízzel.
-1. Alaposan keverd össze fedd le és várj ismét 12-24 órát.
+1. Place 150g of flour (whole wheat recommended) and water into a large glass jar, mix them together, and cover it.
+1. Let it sit in a warm place for 12-24 hours.
+1. Discard half of the mixture and replace it with 75g of flour and water.
+1. Thoroughly mix it together, cover it, and wait for another 12-24 hours.
 
-Ismételd meg a folyamatot a 3. lépéstől addig amíg meg nem jelennek benne a buborékok és szemmel láthatóan növekszik a térfogata. Ez mésrsékelt éghajlaton akár 10 napba is beletelhet, de melegebb helyen már 3-4 nap után beindul az erjedés.
+Repeat the process from step 3 until bubbles start to appear and its volume visibly increases. This can take up to 10 days in moderate climates, but fermentation may start as early as 3-4 days in warmer environments.
 
-:::info fontos
-Amikor már kialakult a fermentáció tedd hűtőszekrénybe.
+:::info important
+Once fermentation has developed, transfer it to the refrigerator.
 :::
 
 
-## Így támaszd fel a szárított kovászt
->⚒️ Nettó munka: ~naponta 5-10 perc  
->🕒 Bruttó elkészítési idő: 1-2 🌞
+## This is how you revive dried sourdough starter
+>⚒️ Net working time: ~5-10 minutes per day  
+>🕒 Gross preparation time: 1-2 days 🌞
 
 Ajánlott este kezdeni, vagy reggel munkábamenet előtt, hogy mire hazajön az ember, vagy felkel lehessen vele tovább haladni.
 

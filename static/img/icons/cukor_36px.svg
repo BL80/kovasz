@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg2"
-   width="36.013588"
+   width="36"
    height="36"
-   viewBox="0 0 36.013588 36"
+   viewBox="0 0 36 36"
    sodipodi:docname="cukor_36px.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -32,8 +32,8 @@
      inkscape:cx="3.0716889"
      inkscape:cy="11.82017"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
+     inkscape:window-height="1129"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g8" />
@@ -44,7 +44,7 @@
      transform="translate(-51.208087,18.26342)">
     <g
        id="g2392"
-       transform="matrix(0.07033904,0,0,0.07033904,47.606159,-16.978789)">
+       transform="matrix(0.0703125,0,0,0.0703125,47.607519,-16.972482)">
       <g
          id="g290"
          transform="matrix(1.0019034,0,0,1.0019034,-671.78293,681.15623)">
