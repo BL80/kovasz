@@ -5,23 +5,33 @@ title: Miből lesz a kovász?
 sidebar_position: 2
 ---
 
+import LiteYouTubeEmbed from 'react-lite-youtube-embed';
+import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css'
+
+
 # ![a](/img/icons/kovasz_48px.svg) Amit a kovászról tudni érdemes
 
 ## Miből lesz a kovász?
-...merül fel a kérdés. A válasz pofon egyszerű, vízből és lisztből.
+...merül fel a kérdés. A válasz pofon egyszerű, `vízből` és `lisztből`.
 
- ![viz](/img/icons/viz_48px.svg "víz") ![liszt](/img/icons/liszt_48px.svg "liszt")
 
-### Szükséges eszközök 
+### Szükséges eszközök
+|![yeast](/img/icons/yeast_48px.svg "befőttesüveg")|![cloth](/img/icons/konyharuha_48px.svg "konyharuha")|![scale](/img/icons/merleg_48px.svg "mérleg")|
+|:---:|:---:|:---:|
+|befőttes üveg|konyharuha|mérleg|
+
 - Befőttes üveg vagy műanyag edény. A lényeg, hogy ne fém legyen, mert a kovász savas.
 - Légáteresztő fedő, például konyharuha.
 
-![yeast](/img/icons/yeast_48px.svg "befőttesüveg")
 
 
 ### Kovász készítése
 >⚒️ Nettó munka: ~naponta 5 perc  
 >🕒 Bruttó elkészítési idő: 3-10 🌞
+
+|![flour](/img/icons/liszt_48px.svg "liszt") <br/>liszt|![water](/img/icons/viz_48px.svg "víz")<br/>víz|![sleep](/img/icons/kovasz_sleeps_48px.svg "fermentálás") <br/>pihi|![yeast](/img/icons/yeast_throwout_48px.svg "dobd ki a felét és frissítsd") <br/>frissítés|![repeat](/img/icons/repeat_48px.svg "ismételd az előző 2 lépést") <br/>ismétlés|
+|:---:|:---:|:---:|:---:|:---:|
+|150 g|150 g|🕑12-24 óra|-150g<br/>+75g+75g|3x - 10x|
 
 1. Tégy 150g lisztet (ajánlott: teljes kiörlésű) és vizet egy nagy befőttesüvegbe, keverd össze és fedd le.
 1. Hagyd állni meleg helyen 12-24 órát.
@@ -39,6 +49,13 @@ Amikor már kialakult a fermentáció tedd hűtőszekrénybe.
 >⚒️ Nettó munka: ~naponta 5-10 perc  
 >🕒 Bruttó elkészítési idő: 1-2 🌞
 
+:::note megjegyzés
+Sosem csináltam még ilyet, az alábbi leírás hosszas irodalomkutatás eredménye. Ha nem találod eléggé kimerítőnek a leírásom, akkor az alábbi kódrészlet [ChatGPT-be](https://chat.openai.com/) történe beillesztése esetén kaphatsz egy jóval részletesebb leírást a folyamatról:
+```
+Így támaszd fel a szárított kovászt
+```
+:::
+
 Ajánlott este kezdeni, vagy reggel munkábamenet előtt, hogy mire hazajön az ember, vagy felkel lehessen vele tovább haladni.
 
 - Végy kb 15-20g szárított kovászt, törd össze apró darabokra és tedd egy befőttes üvegbe.
@@ -46,6 +63,15 @@ Ajánlott este kezdeni, vagy reggel munkábamenet előtt, hogy mire hazajön az 
 - Másnap reggel, illetve amikor feloldódott ilyen nyálkás trutyi lesz belőle. Tegyél hozzá ugyanannyi vizet és lisztet amennyi a trutyi súlya és tedd féle ismét 8-10 - órára pihenni.
 - Ezután már buborékos kell hogy legyen és látványos térfogatnövekedést kellene tapasztalni.
 - Etesd meg és mehet a sütés, vagy tedd félre a hűtőbe későbbi sütés esetén.
+
+Ha további segítségre lenne szükséged a youtube-on is találsz a témában számtalan videót. Nekem ez a legszimpatikusabb, de lehet csak azért mert bejön a fazon frizurája 👨‍🦲
+<div className="video-container">
+  <LiteYouTubeEmbed
+    id="lGSjmvho2eg"
+    title="Szárított kovász felélesztése | RG KONYHÁJA"
+    poster="maxresdefault"
+  />
+</div>
 
 ## Tippek trükkök
 ### Nyaralni megyek, mit tegyek, hogy túléljen a kovász?
