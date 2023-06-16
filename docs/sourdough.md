@@ -9,7 +9,7 @@ import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css'
 
 
-# ![a](/img/icons/kovasz_48px.svg) Amit a kovászról tudni érdemes
+# ![](/img/icons/kovasz_48px.svg) Amit a kovászról tudni érdemes
 
 ## Miből lesz a kovász?
 ...merül fel a kérdés. A válasz pofon egyszerű, `vízből` és `lisztből`.
@@ -50,13 +50,15 @@ Amikor már kialakult a fermentáció tedd hűtőszekrénybe.
 >🕒 Bruttó elkészítési idő: 1-2 🌞
 
 :::note megjegyzés
-Sosem csináltam még ilyet, az alábbi leírás hosszas irodalomkutatás eredménye. Ha nem találod eléggé kimerítőnek a leírásom, akkor az alábbi kódrészlet [ChatGPT-be](https://chat.openai.com/) történe beillesztése esetén kaphatsz egy jóval részletesebb leírást a folyamatról:
+Bevallom sosem próbálkoztam még ezzel, az alábbi leírás hosszas irodalomkutatás eredménye. Ha nem találod eléggé kimerítőnek a lenti leírást, akkor az alábbi kódrészlet [ChatGPT-be](https://chat.openai.com/) történő beillesztése esetén kaphatsz egy jóval részletesebb leírást a folyamatról:
 ```
 Így támaszd fel a szárított kovászt
 ```
 :::
 
-Ajánlott este kezdeni, vagy reggel munkábamenet előtt, hogy mire hazajön az ember, vagy felkel lehessen vele tovább haladni.
+:::tip tipp
+A szárított kovász felélesztését ajánlott este, lefekvés előtt, vagy reggel munkábamenet előtt kezdeni, hogy mire hazajön/felkel az ember lehessen vele tovább haladni.
+:::
 
 - Végy kb 15-20g szárított kovászt, törd össze apró darabokra és tedd egy befőttes üvegbe.
 - Adj hozzá ugyanannyi vizet amennyi a száraz kovász, és várj amíg feloldódik. ~8-10 óra.
@@ -64,7 +66,7 @@ Ajánlott este kezdeni, vagy reggel munkábamenet előtt, hogy mire hazajön az 
 - Ezután már buborékos kell hogy legyen és látványos térfogatnövekedést kellene tapasztalni.
 - Etesd meg és mehet a sütés, vagy tedd félre a hűtőbe későbbi sütés esetén.
 
-Ha további segítségre lenne szükséged a youtube-on is találsz a témában számtalan videót. Nekem ez a legszimpatikusabb, de lehet csak azért mert bejön a fazon frizurája 👨‍🦲
+Ha további segítségre lenne szükséged a youtube-on is találsz a témában számtalan videót. Nekem ez a videó volt a legszimpatikusabb, de lehet csak azért, mert bejön a fazon frizurája. 👨‍🦲
 <div className="video-container">
   <LiteYouTubeEmbed
     id="lGSjmvho2eg"

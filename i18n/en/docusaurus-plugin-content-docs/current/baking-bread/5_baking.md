@@ -4,7 +4,7 @@ sidebar_label: Baking
 title: Baking
 ---
 
-# 5/5 ![a](/img/icons/glove_48px.svg) Baking
+# ![a](/img/icons/glove_48px.svg) Baking
 >🌡️230°C 🕐1 hour  
 >előmelegített sütőben  
 

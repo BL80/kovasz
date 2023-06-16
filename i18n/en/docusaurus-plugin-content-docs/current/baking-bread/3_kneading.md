@@ -4,7 +4,7 @@ sidebar_label: Kneading and resting
 title: Kneading and resting
 ---
 
-# 3/5 ![a](/img/icons/knead_48px.svg) Kneading and resting
+# ![a](/img/icons/knead_48px.svg) Kneading and resting
 >⚒️ Net work: 15-20 min  
 >🕑 Rest: 2 hours
 

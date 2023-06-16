@@ -4,7 +4,7 @@ sidebar_label: Shaping, loosening
 title: Shaping, loosening
 ---
 
-# 4/5 ![a](/img/icons/szakajto_48px.svg) Shaping, loosening
+# ![a](/img/icons/szakajto_48px.svg) Shaping, loosening
 >⚒️ Net work: 5-10 min  
 >🕒 Rest: 3 hours (10-12 hours in fridge)
 

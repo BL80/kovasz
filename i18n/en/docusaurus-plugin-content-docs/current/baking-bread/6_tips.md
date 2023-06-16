@@ -1,7 +1,7 @@
 ---
 id: tips
-sidebar_label: 🚧Experiences
-title: 🚧Experiences
+sidebar_label: Experiences
+title: Experiences
 ---
 
 import LiteYouTubeEmbed from 'react-lite-youtube-embed';
@@ -10,7 +10,7 @@ import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css'
 *Here I plan to gather the experiences so far, as well as the truly botched and failed baking attempts.
 As soon as I have time... there is already plenty of material for it...*
 
-## 💡Tips & Tricks
+## ![a](/img/icons/bulb_48px.svg) Tips & Tricks
 :::tip
 In the meantime, here's a great video from Master Dragomán. I myself have learned many tricks from him during my unfortunate attempts. It's impressive how he does everything so effortlessly, or as a friend of mine would say: "[flegmatically](https://www.arcanum.com/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/f-28F2F/flegma-2B95E/ "I really didn't come up with it! It was used by a very precise, meticulous, and system-fetishist engineer friend of mine after watching the video 😅")"
 :::
