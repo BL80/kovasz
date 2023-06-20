@@ -1,10 +1,11 @@
 ---
 id: ingredients
 sidebar_label: Hozzávalók
-title: Minden itt kezdődik
+title: A kenyérsütés folyamata
 ---
 
-# Minden itt kezdődik
+# ![](/img/icons/kenyer_48px.svg) A kenyérsütés folyamata
+
 >⚒️ Nettó munka: ~45 perc + 1 óra sütés  
 >🕒 Bruttó elkészítési idő: 1-2 🌞
 
@@ -21,7 +22,7 @@ title: Minden itt kezdődik
 Az előbbi recept 2db kb. 700-800g-os kenyeret eredményez, vagy 1db ~1,5 kg-osat, ami azt jelenti, hogy két M-es vagy egy XXL-es szakajtóra lesz szükség.
 :::
 
-## Elkészítés folyamata
+## A kenyérsütés lépései
 |#|Ikon|Lépések|Bruttó🕒|Nettó⚒️|
 |---|:---:|---|---|---|
 |1. |![a](/img/icons/kovasz_36px.svg)  |[Kovász előkészítése](./preparations)|2-4 óra|5 perc|

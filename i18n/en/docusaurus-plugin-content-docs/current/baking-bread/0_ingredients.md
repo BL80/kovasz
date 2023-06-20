@@ -1,10 +1,11 @@
 ---
 id: ingredients
 sidebar_label: Ingredients
-title: Everything starts here
+title: The process of bread baking
 ---
 
-# Everything starts here
+# ![](/img/icons/kenyer_48px.svg) The process of bread baking
+
 >⚒️ Net work: ~45 minutes + 1 hour of baking  
 >🕒 Gross preparation time: 1-2 🌞
 

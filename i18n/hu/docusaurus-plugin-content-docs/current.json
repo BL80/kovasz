@@ -6,5 +6,9 @@
   "sidebar.tutorialSidebar.category.BakingBread101": {
     "message": "Kenyérsütés 101",
     "description": "The label for category BakingBread101 in sidebar tutorialSidebar"
+  },
+  "sidebar.docs.category.BakingBread101": {
+    "message": "Kenyérsütés 101",
+    "description": "The label for category BakingBread101 in sidebar docs"
   }
 }

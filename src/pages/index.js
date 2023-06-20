@@ -12,13 +12,13 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title"><Translate id="homepage.banner.title">FriscoEgyreKenyérebb</Translate></h1>
-        <p className="hero__subtitle"><Translate id="homepage.banner.subtitle">Avagy mi mindenre jó a kovász</Translate></p>
+        <h1 className="hero__title"><Translate id="homepage.banner.title"/></h1>
+        <p className="hero__subtitle"><Translate id="homepage.banner.subtitle"/></p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/baking-bread/ingredients">
-            <Translate id="homepage.banner.button.text">Kenyérsütés 101 👆</Translate>
+            <Translate id="homepage.banner.button.text"/>
           </Link>
         </div>
       </div>
