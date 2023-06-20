@@ -28,10 +28,11 @@ const sidebars = {
    */
 
   docs: [
+    'sourdough',
     'sourdough-matrix',
     {
       type: 'category',
-      label: 'Kenyérsütés 101',
+      label: 'BakingBread101',
       link: {
         type: 'generated-index',
       },

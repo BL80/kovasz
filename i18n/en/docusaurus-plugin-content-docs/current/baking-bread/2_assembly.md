@@ -4,7 +4,7 @@ sidebar_label: Dough assembly, autolyse
 title: Dough assembly, autolyse
 ---
 
-# 2/5 ![a](/img/icons/dough_48px.svg) Dough assembly, autolyse
+# ![a](/img/icons/dough_48px.svg) Dough assembly, autolyse
 >⚒️ Net work: ~10 min  
 >🕑 Autolyse: 1-2 hours  
 

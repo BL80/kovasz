@@ -4,7 +4,7 @@ sidebar_label: Dagasztás és pihi
 title: Dagasztás és pihi
 ---
 
-# 3/5 ![a](/img/icons/knead_48px.svg) Dagasztás és pihi
+# ![](/img/icons/knead_48px.svg) Dagasztás és pihi
 >⚒️ Nettó munka: 15-20 perc  
 >🕑 Pihi: 2 óra
 
