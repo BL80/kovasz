@@ -4,11 +4,11 @@
 <svg
    version="1.1"
    id="svg2"
-   width="41.01482"
+   width="36"
    height="36"
-   viewBox="0 0 41.014819 36"
+   viewBox="0 0 35.999999 36"
    sodipodi:docname="kovasz_sleeps_36px.svg"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,18 +25,20 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="7.2407735"
-     inkscape:cx="0.62148056"
+     inkscape:cx="-15.537014"
      inkscape:cy="15.882281"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1137"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g118"
+     inkscape:current-layer="g34"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
@@ -47,7 +49,8 @@
        id="g132"
        transform="matrix(0.0703125,0,0,0.0703125,-1009.3063,-27.077711)">
       <g
-         id="g8755">
+         id="g8755"
+         transform="translate(7.5881369e-5)">
         <g
            id="g120"
            transform="matrix(1.0022486,0,0,1.0022486,-1488.5443,-225.15892)">
@@ -77,7 +80,7 @@
          transform="translate(423.54014,232.1)">
         <g
            id="g118"
-           transform="translate(80.310302,34.635842)">
+           transform="translate(8.9882267,55.296035)">
           <path
              style="fill:#999999"
              d="m -1056.756,-84.41094 c -4.4315,-2.70227 -7.1419,-6.55494 -7.9416,-11.288313 -0.6428,-3.804494 0,-5.518447 8.3342,-22.356017 l 9.0303,-18.23562 -3.9312,-0.62862 c -2.7337,-0.43714 -5.1283,-1.82575 -7.8613,-4.55877 -6.119,-6.11904 -6.5988,-13.84937 -1.2537,-20.20164 4.3184,-5.13212 7.3828,-5.84007 25.2787,-5.84007 18.3312,0 21.3816,0.8226 25.4944,6.87505 4.4267,6.51459 3.6206,10.54424 -5.9836,29.91062 l -8.4225,16.98351 3.7516,0.5999 c 7.8473,1.25484 14.0884,8.11727 14.0918,15.494765 0,4.839595 -3.8147,11.001805 -8.2007,13.239365 -3.2391,1.65248 -6.0094,1.89631 -21.5079,1.89305 -15.6589,-0.003 -18.1598,-0.22934 -20.8785,-1.88721 z m -101.3044,-8.60905 c 0,-0.55 4.9019,-10.675 10.8931,-22.5 5.9912,-11.825 10.893,-21.05 10.893,-20.5 0,0.55 -4.9018,10.675 -10.893,22.5 -5.9912,11.825 -10.8931,21.05 -10.8931,20.5 z"
