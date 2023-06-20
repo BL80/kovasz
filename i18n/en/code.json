@@ -1,6 +1,6 @@
 {
   "homepage.features.smell-of-bread.title": {
-    "message": "I really like fresh bread and you?"
+    "message": "I really like fresh bread, and you?"
   },
   "homepage.features.ingredients.title": {
     "message": "Ingredients, let's see!"
@@ -303,7 +303,7 @@
     "message": "Baking bread 101 👆"
   },
   "homepage.features.smell-of-bread.text.part1": {
-    "message": "Are you crazy of the smell of fresh bread? Are you usally amongst the first customers at the local bakery in the morning, so you can eat the freshly baked and hot 🍞🥐🥖? Are you either a hedonist or do you just like to eat good things? When you were a child, did you run around with a piece of bread in your mouth while your mother was bagging you to finally put on your coat on the way to the daycare? Your father kept saying"
+    "message": "Are you crazy for the smell of fresh bread? Are you usally amongst the first customers at the local bakery in the morning, so you can eat the freshly baked and hot 🍞🥐🥖? Are you either a hedonist or do you just like to eat good things? When you were a child, did you run around with a piece of bread in your mouth while your mother was bagging you to finally put on your coat on the way to the daycare? Your father kept saying"
   },
   "homepage.features.smell-of-bread.text.part2": {
     "message": "\"Let the dry run out first, don't start the fresh until then!\""
@@ -312,16 +312,16 @@
     "message": "? If you could, you would have only freshly baked goods for breakfast every day?"
   },
   "homepage.features.ingredients.text1": {
-    "message": "WTF is ..., but where should I get ...? Has it happened that you started to cook, but only a third of the ingredients were in the pantry, and you didn't even know about the rest what tree does it grow on? You looked for yeast in the store, and after half an hour of wandering around, you asked a salesperson and he said that"
+    "message": "WTF is ..., but where should I get ...? Has it happened that you started to cook, but only a tenth of the ingredients were in the pantry, and you didn't even heard about the rest, you have no clue what those are? You looked for yeast in the store, and after half an hour of wandering around, you asked a salesperson and he said that"
   },
   "homepage.features.ingredients.text2": {
     "message": "\"we never had any\""
   },
   "homepage.features.ingredients.text3": {
-    "message": "?! Would you like to bake something delicious with a maximum of 3 ingredients?"
+    "message": "?! Would you like to bake something delicious with no more than 3 ingredients?"
   },
   "homepage.features.engineer.text1": {
-    "message": "Do you bake pancakes based on an algorithm? You could climb a wall with the following units of measurement:"
+    "message": "Do you bake pancakes based on an algorithm? It drives you up the wall reading about the following units of measurement:"
   },
   "homepage.features.engineer.csipetnyi": {
     "message": "a pinch"

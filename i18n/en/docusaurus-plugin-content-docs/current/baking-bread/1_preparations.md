@@ -4,7 +4,7 @@ sidebar_label: Preparing sourdough
 title: Preparing sourdough
 ---
 
-# 1/5 ![a](/img/icons/kovasz_48px.svg) Preparing sourdough
+# ![a](/img/icons/kovasz_48px.svg) Preparing sourdough
 
 >⚒️ Net work: 5 min  
 >🕑 Fermentation: 2-4 hours BL80  

@@ -4,7 +4,7 @@ sidebar_label: Formázás, lazulás
 title: Formázás, lazulás
 ---
 
-# 4/5 ![a](/img/icons/szakajto_48px.svg) Formázás, lazulás
+# ![](/img/icons/szakajto_48px.svg) Formázás, lazulás
 >⚒️ Nettó munka: 5-10 perc  
 >🕒 Pihi: 3 óra (hűtve ~12 óra)
 

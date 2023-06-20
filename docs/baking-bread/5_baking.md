@@ -4,7 +4,7 @@ sidebar_label: Sütés
 title: Sütés
 ---
 
-# 5/5 ![a](/img/icons/glove_48px.svg) Sütés
+# ![](/img/icons/glove_48px.svg) Sütés
 >🌡️230°C 🕐1 óra  
 >előmelegített sütőben  
 
