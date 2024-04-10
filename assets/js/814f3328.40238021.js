@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkovasz=self.webpackChunkkovasz||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Legut\xf3bbi bejegyz\xe9sek","items":[{"title":"\ud83c\udf55PizzaP\xe9ntek","permalink":"/kovasz/blog/20220226-notes_pizza","unlisted":false},{"title":"\xdcdv az oldalon!","permalink":"/kovasz/blog/welcome","unlisted":false}]}')}}]);

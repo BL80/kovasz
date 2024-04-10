@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkovasz=self.webpackChunkkovasz||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud83c\udf55PizzaP\xe9ntek","permalink":"/kovasz/en/blog/20220226-notes_pizza"},{"title":"Welcome to the site!","permalink":"/kovasz/en/blog/welcome"}]}')}}]);
