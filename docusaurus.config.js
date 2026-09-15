@@ -10,7 +10,11 @@ const config = {
   url: 'https://bl80.github.io',
   baseUrl: '/kovasz/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
   favicon: 'img/favicon.ico',
   organizationName: 'nynfus corporation', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
