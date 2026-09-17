@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkovasz||=[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/kovasz/en/blog","blogTitle":"Blog","authorsListPath":"/kovasz/en/blog/authors"}')}}]);

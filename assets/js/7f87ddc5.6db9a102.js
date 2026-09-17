@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkovasz||=[]).push([[3351],{9873(l){l.exports=JSON.parse('{"tag":{"label":"hello","permalink":"/kovasz/blog/tags/hello","allTagsPath":"/kovasz/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/kovasz/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

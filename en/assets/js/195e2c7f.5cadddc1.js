@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkovasz||=[]).push([[1685],{957(e){e.exports=JSON.parse('{"authors":[{"name":"Frisco","title":"author of friscoegyrekenyerebb","url":"https://github.com/bl80","imageURL":"https://github.com/bl80.png","key":"frisco","page":null,"count":2}]}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkkovasz=self.webpackChunkkovasz||[]).push([[5525],{5525:()=>{}}]);

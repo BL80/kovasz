@@ -1,0 +1,1 @@
+(globalThis.webpackChunkkovasz||=[]).push([[5741],{5741(){}}]);
